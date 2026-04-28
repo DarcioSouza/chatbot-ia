@@ -10,7 +10,7 @@ Este chatbot foi desenvolvido com Python e Streamlit, utilizando lógica de simu
 
 Interface de chat interativa com respostas automatizadas baseadas em regras inteligentes.
 
-_(adicione prints futuramente)_
+![Demonstração do Chatbot](screenshot.png)
 
 ---
 
