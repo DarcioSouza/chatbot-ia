@@ -1,5 +1,10 @@
 # 🤖 Chatbot de Atendimento Inteligente com IA
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
+![Made by](https://img.shields.io/badge/Autor-D%C3%A1rcio-blue)
+
 Projeto prático focado em desenvolvimento de soluções com IA para atendimento automatizado.
 
 Este chatbot foi desenvolvido com Python e Streamlit, utilizando lógica de simulação de IA para responder perguntas de usuários.
